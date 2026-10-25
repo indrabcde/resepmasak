@@ -1,0 +1,6 @@
+{
+  "name": "Resep Nusantara",
+  "description": "Aplikasi resep masakan nusantara dengan tampilan beranda, detail resep, dan formulir tambah resep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
